@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rust Tutor"
+  short_description: "Personal Rust learning coach"
+  default_prompt: "Use $rust-tutor to continue my Rust learning plan in my preferred language and teaching style, review my progress, teach the next topic, and give me exercises."
