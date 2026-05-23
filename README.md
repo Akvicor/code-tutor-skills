@@ -12,7 +12,7 @@
 ## 获取仓库
 
 ```bash
-git clone https://github.com/<your-user-or-org>/code-tutor-skills.git
+git clone https://github.com/Akvicor/code-tutor-skills.git
 cd code-tutor-skills
 ```
 
